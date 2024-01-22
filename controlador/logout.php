@@ -1,5 +1,5 @@
 <?php 
-// se inicia la sesión de usuario
+// se inicia la sesión de usuario 100%
 // a partir de ahora podemos acceder a sus variables de sesión
 session_start();
 
